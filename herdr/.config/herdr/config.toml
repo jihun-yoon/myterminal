@@ -1,0 +1,3 @@
+# Herdr works with its defaults. Keep this tracked file intentionally minimal.
+# Generate the complete current schema with: herdr --default-config
+# Reload future changes with: herdr server reload-config
